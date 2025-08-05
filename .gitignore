@@ -3,3 +3,6 @@
 **/*.pyc
 venv
 db.sqlite3
+
+theme/static_src/node_modules/
+theme/static/css/
